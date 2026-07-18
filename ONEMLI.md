@@ -1,4 +1,4 @@
-----------TKOS----------
+----------TKOS---------- *Çalıştırma Adımları*
 
 x86 Mimarisi 64 Bit OS Projesi.
 vmware, QEMU, VirtualBox ve Limbo x86 PC Emulator ile calisabilir.
@@ -14,4 +14,22 @@ seçin.
 
 Cdrom, Floppy veya network card GEREKSIZDIR. Bos bırakabilirsiniz.
 
-HAZIR! çalıştırın.
+ONEMLI UYARILAR:
+
+-Butona tiklandiktan sonra ENTER basarsanız, terminal yeniden yazmaniza
+izin verir.
+
+-henüz sistem %100 stabil sayılmaz, eğer bir bug bulursaniz,
+bana bildirmenizden memnun olurum(YT: Efe8372=@EFE0404BY)
+
+-Eger ikinci diski takmazsaniz, beyaz ekranda donar, açılmaz.
+
+-Terminale help yazarak komut listesini görebilirsiniz.
+
+-Açılış Melodisi yaklaşık 20 saniye, biraz fazla oldu, sorry :D
+
+-Kodda değişiklik yapıp yeniden derlemek isterseniz, bootable kismina
+eklediğim tkos_HowToCompile.txt dosyasindaki komutları birebir
+alabilirsiniz, Clang veya GCC ile yapılabilir. 
+
+
