@@ -28,8 +28,8 @@ bana bildirmenizden memnun olurum(YT: Efe8372=@EFE0404BY)
 
 -Açılış Melodisi yaklaşık 20 saniye, biraz fazla oldu, sorry :D
 
--Kodda değişiklik yapıp yeniden derlemek isterseniz, bootable kismina
-eklediğim tkos_HowToCompile.txt dosyasindaki komutları birebir
+-Kodda değişiklik yapıp yeniden derlemek isterseniz, Derleme/ kismina
+eklediğim tkos_HowToCompile.md dosyasindaki komutları birebir
 alabilirsiniz, Clang veya GCC ile yapılabilir. 
 
 
