@@ -1,0 +1,6 @@
+---tkos v2.10 Yenilikleri---
+
+-Terminale "ab" komutu eklendi
+-Logo Ekranı Eklendi.
+
+---TKOS BY Efe8372-------2026 Public Domain-----
