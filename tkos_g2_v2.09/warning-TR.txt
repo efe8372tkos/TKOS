@@ -1,0 +1,6 @@
+---tkos 2.nesil v2.09---
+
+-FAT16 Dosya Sistemine YAZMA DESTEGI eklendi.
+-rm, rm2, write ve write2 komutlari eklendi.
+
+----tkos by Ruby99----
