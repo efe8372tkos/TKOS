@@ -1,0 +1,2 @@
+TKOS'un ismi DestinyOS olarak değiştirildi, Bu yüzden artık
+Yeni bir repodan devam ediliyor
